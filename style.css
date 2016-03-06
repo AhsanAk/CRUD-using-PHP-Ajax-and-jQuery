@@ -1,0 +1,24 @@
+body{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 15px;
+	background-color: #f2f2f2; 
+
+}
+
+table tr {
+	text-align: center;
+}
+
+.container{
+	margin-top: 10px;
+}
+
+.error{
+	color: red;
+}
+
+table tr:hover{
+	background: #f0f5f5;
+}
+
+
